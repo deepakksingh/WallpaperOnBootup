@@ -1,0 +1,607 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"soft",
+				"softmaxedTensor"
+			],
+			[
+				"max",
+				"maxedSoftmaxedTensor"
+			],
+			[
+				"targetM",
+				"targetMaskImage"
+			],
+			[
+				"pred",
+				"predictedSoftMaxImage"
+			],
+			[
+				"in",
+				"inputTensor"
+			],
+			[
+				"valD",
+				"valDataLoader"
+			],
+			[
+				"mo",
+				"model_path"
+			],
+			[
+				"dat",
+				"dataRoot"
+			],
+			[
+				"va",
+				"val_path"
+			],
+			[
+				"dl",
+				"deltaTime"
+			],
+			[
+				"tra",
+				"trainOnGPU"
+			],
+			[
+				"trainD",
+				"trainDataLoader"
+			],
+			[
+				"NUM",
+				"NUM_OF_OUTPUT_CHANNELS"
+			],
+			[
+				"PAS",
+				"PascalVOCDataset"
+			],
+			[
+				"mask",
+				"mask_dir"
+			],
+			[
+				"img",
+				"img_dir"
+			],
+			[
+				"data",
+				"data_root"
+			],
+			[
+				"N",
+				"NUM_OF_EPOCHS"
+			],
+			[
+				"M",
+				"MySegNet"
+			],
+			[
+				"OEF",
+				"oefImageFileName"
+			],
+			[
+				"model",
+				"modelpath"
+			],
+			[
+				"oef",
+				"oefImageFileName"
+			],
+			[
+				"oe",
+				"oefImageFileName"
+			],
+			[
+				"show",
+				"showEdgeImage"
+			],
+			[
+				"cann",
+				"cannyEdgeFileName"
+			],
+			[
+				"edgeImage",
+				"edgeImageFileName"
+			],
+			[
+				"cannyE",
+				"cannyEdPhotoImage"
+			],
+			[
+				"sobe",
+				"sobeledImage"
+			],
+			[
+				"as",
+				"astype"
+			],
+			[
+				"get",
+				"getCannyEdgeImage"
+			],
+			[
+				"image",
+				"imageMatPhotoImage"
+			],
+			[
+				"P",
+				"filePath"
+			],
+			[
+				"sob",
+				"sobeledImage"
+			],
+			[
+				"status",
+				"statusframelabel"
+			],
+			[
+				"stat",
+				"statusframe"
+			],
+			[
+				"title",
+				"titleframe1label"
+			],
+			[
+				"rei",
+				"resizedOEF"
+			],
+			[
+				"resiz",
+				"resizedSobel"
+			],
+			[
+				"resized",
+				"resizedOEF"
+			],
+			[
+				"res",
+				"resImageOEF"
+			],
+			[
+				"DISP",
+				"dispImagesArr"
+			],
+			[
+				"disp",
+				"dispImagesArr"
+			],
+			[
+				"imageMa",
+				"imageMatImage"
+			],
+			[
+				"np",
+				"npImageMat"
+			],
+			[
+				"bt",
+				"btnRunFunction"
+			],
+			[
+				"LE",
+				"leftFrame"
+			],
+			[
+				"le",
+				"leftFrameLabel"
+			],
+			[
+				"mid",
+				"middleFrameLabel"
+			],
+			[
+				"left",
+				"leftFrameLabel"
+			],
+			[
+				"sta",
+				"statusLabel"
+			],
+			[
+				"open",
+				"openedImage"
+			],
+			[
+				"ope",
+				"openedImage"
+			],
+			[
+				"INSE",
+				"insertButton"
+			],
+			[
+				"sub",
+				"subMenu2"
+			],
+			[
+				"do",
+				"doNothing"
+			],
+			[
+				"prin",
+				"printButton"
+			],
+			[
+				"pr",
+				"printName"
+			],
+			[
+				"use",
+				"usernameLabel"
+			],
+			[
+				"h",
+				"HORIZONTAL"
+			],
+			[
+				"getN",
+				"getName"
+			],
+			[
+				"shor",
+				"shortestPath"
+			],
+			[
+				"child",
+				"childrenOf"
+			],
+			[
+				"resu",
+				"resultList"
+			],
+			[
+				"prof",
+				"profTrivediPic2"
+			],
+			[
+				"s",
+				"species"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main/runner.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Conda/Conda.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python-anaconda.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/python-anaconda.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"previe",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/deepak/Desktop/LinkToPyTorchImplementations/SegNetImplementation/dataset.py",
+		"/home/deepak/Desktop/LinkToPyTorchImplementations/SegNetImplementation/validation.py",
+		"/home/deepak/Desktop/LinkToPyTorchImplementations/SegNetImplementation/model.py",
+		"/home/deepak/Desktop/LinkToPyTorchImplementations/SegNetImplementation/trash.py",
+		"/home/deepak/Desktop/LinkToPyTorchImplementations/SegNetImplementation/randomtest.py",
+		"/home/deepak/Desktop/LinkToPyTorchImplementations/SegNetImplementation/buffer.txt",
+		"/home/deepak/.config/sublime-text-3/Packages/User/sftp_servers/ada",
+		"/home/deepak/Desktop/LinkToPyTorchImplementations/SegNetImplementation/trainer.py",
+		"/home/deepak/bin/myscripts/hello_world",
+		"/home/deepak/Desktop/Link to PyTorch-Implementations/SegNetImplementation/randomtest.py",
+		"/home/deepak/Desktop/Link to PyTorch-Implementations/SegNetImplementation/buffer.txt",
+		"/home/deepak/Desktop/Link to PyTorch-Implementations/SegNetImplementation/dataset.py",
+		"/home/deepak/Desktop/Link to PyTorch-Implementations/SegNetImplementation/validation.py",
+		"/home/deepak/Desktop/Link to PyTorch-Implementations/SegNetImplementation/trainer.py",
+		"/home/deepak/Desktop/Link to PyTorch-Implementations/SegNetImplementation/model.py",
+		"/home/deepak/Desktop/Link to ws/research-work/semantic segmentation/notes",
+		"/home/deepak/bin/myscripts/sysinfo_page",
+		"/home/deepak/.bashrc",
+		"/run/user/1000/gvfs/sftp:host=10.2.16.102,user=deepak/home/deepak/ws/ShellScripting/test.sh",
+		"/home/deepak/Desktop/projectGUI/correlationTester.py",
+		"/home/deepak/Desktop/projectGUI/guihomenew.py",
+		"/home/deepak/Desktop/projectGUI/converter.py",
+		"/home/deepak/Desktop/projectGUI/buffer.py",
+		"/home/deepak/Desktop/projectGUI/buffer2.py",
+		"/home/deepak/Desktop/projectGUI/buffer3.py",
+		"/home/deepak/Desktop/projectGUI/tester.py",
+		"/home/deepak/Desktop/projectGUI/guihome.py",
+		"/home/deepak/Desktop/guihome.py",
+		"/home/deepak/Desktop/projectGUI/imagesandicons.py",
+		"/home/deepak/Desktop/projectGUI/shapesandgraphics.py",
+		"/home/deepak/Desktop/projectGUI/messagebox.py",
+		"/home/deepak/Desktop/projectGUI/uiFunctions.py",
+		"/home/deepak/Desktop/projectGUI/statusbar.py",
+		"/home/deepak/Desktop/projectGUI/toolbar.py",
+		"/home/deepak/Desktop/projectGUI/dropdown.py",
+		"/home/deepak/Desktop/projectGUI/usingClasses.py",
+		"/home/deepak/Desktop/projectGUI/bindingafunction.py",
+		"/home/deepak/Desktop/projectGUI/main.py",
+		"/home/deepak/Desktop/projectGUI/gridlayout.py",
+		"/home/deepak/Desktop/projectGUI/fittingwidgets.py",
+		"/home/deepak/Desktop/Link to Research-Papers/README.md",
+		"/home/deepak/.config/sublime-text-3/Packages/User/python-anaconda.sublime-build",
+		"/home/deepak/.config/sublime-text-3/Packages/User/python3anaconda.sublime-build",
+		"/home/deepak/Desktop/projectGUI/mmts.jpg",
+		"/home/deepak/Desktop/Link to 2019/cv/assignments/clones/uiGrabCut/grabcutp3.py",
+		"/home/deepak/Desktop/Link to 2019/cv/assignments/clones/uiGrabCut/main1.py",
+		"/home/deepak/Desktop/Link to 2019/cv/assignments/clones/uiGrabCut/grab.py",
+		"/home/deepak/Desktop/trash.py",
+		"/home/deepak/ws/pythonProjs/graphs/Graph.py",
+		"/home/deepak/ws/pythonProjs/graphs/Digraph.py",
+		"/home/deepak/ws/pythonProjs/graphs/Node.py",
+		"/home/deepak/ws/pythonProjs/graphs/tester.py",
+		"/home/deepak/Desktop/Link to CV-Project-2019/bin/gui/runner.py",
+		"/home/deepak/Desktop/Link to CV-Project-2019/bin/gui/trash.py",
+		"/home/deepak/ws/pythonProjs/graphs/Edge.py",
+		"/home/deepak/JournalDraft/j1/J1-01-01-2019.md",
+		"/home/deepak/JournalDraft/j2/J2-02-01-2019.md",
+		"/home/deepak/JournalDraft/J0-31-12-2018.md",
+		"/home/deepak/.config/sublime-text-3/Packages/User/python3.sublime-build",
+		"/home/deepak/Desktop/dip assignments/a4/src/a4q1.ipynb"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"loss",
+			"/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\",\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main/runner.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 171.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 200.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 176.0
+	},
+	"pinned_build_system": "Packages/ShellScript/ShellScript.sublime-build",
+	"project": "wallpaperonbootup.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/LinkToPyTorchImplementations/SegNetImplementation/segnet.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
